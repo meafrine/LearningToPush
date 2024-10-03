@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1719910231 source:/home/afrine/Codes/LinearSearch(class code)/main.c
+	<stdio.h>
+	<stdlib.h>
+

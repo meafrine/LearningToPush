@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1718700535 source:/home/afrine/Codes/simple Array C code(lab code)/main.c
+	<stdio.h>
+	<stdlib.h>
+
